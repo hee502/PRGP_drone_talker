@@ -1,0 +1,16 @@
+/home/robotlab/fuerte_workspace/sandbox/talker/build/CMakeFiles/ROSBUILD_genmsg_cpp.dir
+/home/robotlab/fuerte_workspace/sandbox/talker/build/CMakeFiles/ROSBUILD_genmsg_lisp.dir
+/home/robotlab/fuerte_workspace/sandbox/talker/build/CMakeFiles/ROSBUILD_gensrv_cpp.dir
+/home/robotlab/fuerte_workspace/sandbox/talker/build/CMakeFiles/ROSBUILD_gensrv_lisp.dir
+/home/robotlab/fuerte_workspace/sandbox/talker/build/CMakeFiles/clean-test-results.dir
+/home/robotlab/fuerte_workspace/sandbox/talker/build/CMakeFiles/rosbuild_precompile.dir
+/home/robotlab/fuerte_workspace/sandbox/talker/build/CMakeFiles/rosbuild_premsgsrvgen.dir
+/home/robotlab/fuerte_workspace/sandbox/talker/build/CMakeFiles/rospack_genmsg.dir
+/home/robotlab/fuerte_workspace/sandbox/talker/build/CMakeFiles/rospack_genmsg_libexe.dir
+/home/robotlab/fuerte_workspace/sandbox/talker/build/CMakeFiles/rospack_gensrv.dir
+/home/robotlab/fuerte_workspace/sandbox/talker/build/CMakeFiles/talker.dir
+/home/robotlab/fuerte_workspace/sandbox/talker/build/CMakeFiles/test.dir
+/home/robotlab/fuerte_workspace/sandbox/talker/build/CMakeFiles/test-future.dir
+/home/robotlab/fuerte_workspace/sandbox/talker/build/CMakeFiles/test-results.dir
+/home/robotlab/fuerte_workspace/sandbox/talker/build/CMakeFiles/test-results-run.dir
+/home/robotlab/fuerte_workspace/sandbox/talker/build/CMakeFiles/tests.dir
